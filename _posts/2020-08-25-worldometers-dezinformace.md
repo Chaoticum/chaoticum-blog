@@ -23,7 +23,7 @@ Data pochází z jednoho zdroje, kterým je web https://www.worldometers.info. T
 
 Jak vypadá parádní dezinformace založená na datech z Worldometers můžete vidět na screenshotu níže. Co je špatně? Úplně všechno. Postupně rozeberu.
 
-![Tabulka z Linkedinu](../assets/posts/2020-08-25-worldometers-dezinformace/tabulka-linkeding.png "Tabulka z Linkedinu") \
+![Tabulka z Linkedinu](../assets/post-img/2020-08-25-worldometers-dezinformace/tabulka-linkeding.png "Tabulka z Linkedinu") \
 *Zdroj obrázku: Screenshot z LinkedInu*
 
 ## Porovnávání neporovnatelného
@@ -56,7 +56,7 @@ Dle screenshotované tabulky od 1. 1. 2020 do 1. 4. 2020 celosvětově na různ�
 
 To je 2x více než za předchozí 4 měsíce dohromady. A téměř 2x více než zemřelo lidí v 1. světové válce. Někde ve světě pravděpodobně musela vypuknout strašlivá katastrofa, o které všechna média mlčely. Asi v tom budou mít prsty zase ti zatracení Ilumináti. Nebo někdo opsal chybně čísla a díky nedostatku sebereflexe si nedokázal takovou chybu připustit. Ale to se stává jen zcela výjimečně. Osobně fandím Iluminátům.
 
-![Ilumináti](../assets/posts/2020-08-25-worldometers-dezinformace/illuminati.gif "Ilumináti")
+![Ilumináti](../assets/post-img/2020-08-25-worldometers-dezinformace/illuminati.gif "Ilumináti")
 
 ### Identický růst
 
