@@ -9,6 +9,8 @@ tags: [weby]
 
 blabal
 
+minimalistické a téměř zdarma
+
 testů
 
 ## Jekyll
@@ -22,3 +24,7 @@ testů
 ## Nastavení DNS
 
 ### URL bez WWW
+
+Atom + github SW
+
+Nevýhody
