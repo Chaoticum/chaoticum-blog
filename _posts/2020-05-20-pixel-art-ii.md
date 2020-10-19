@@ -13,7 +13,7 @@ Nové experimenty s pixel artem. Zkusil jsem se pustit do pár složitějších 
 
 **Buddhistický mnich**. První verze a mírně upravená verze se stínem. Plátno 32x32 px.
 
-![Mnich](../assets/post-img/2020-05-20-pixel-art-ii/monk.png "Mnich") ![Mnich v2](../assets/posts/2020-05-20-pixel-art-ii/monk-2.png "Mnich v2")
+![Mnich](../assets/post-img/2020-05-20-pixel-art-ii/monk.png "Mnich") ![Mnich v2](../assets/post-img/2020-05-20-pixel-art-ii/monk-2.png "Mnich v2")
 
 **Pagoda**. Tři velikosti. Originál, 2x zvětšené, 3x zvětšené. Nejlépe funguje originální verze, na které nejsou vidět nedostatky a chybějící detaily, které nebylo možné do obrázku dostat. Plátno 64x32 px.
 
