@@ -7,13 +7,13 @@ author: Zdeněk Nešpor
 tags: [pixel art]
 ---
 
-Dokončení obrázku a animace z minulého blog postu. Menší pokrok s hrou. A pár tipů do Aseprite a Unity. 
+Dokončení obrázku a animace z minulého blog postu. Menší pokrok s hrou. A pár tipů do Aseprite a Unity.
 
 ## Cat Alley - animace
 
 **Kočičí ulička**. První větší počin, který se mi podařilo dotáhnout až do finální fáze. Plátno 160x64 px, do článku 3x zvětšeno na 480x192 px. 60 framů. 8 animovaných objektů. Cca 10 hodin práce.
 
-![Cat Alley](../assets/posts/2020-09-21-pixel-art-vi/cat-alley.webp "Cat Alley")
+![Cat Alley](../assets/post-img/2020-09-21-pixel-art-vi/cat-alley.webp "Cat Alley")
 
 ### Poznámky a zajímavosti k animaci
 
@@ -21,23 +21,23 @@ Aminace by snesla ještě mnohem více péče. Například kočka na ulici je v 
 
 Z původního konceptu (na obrázku níže) zmizely lampiony. Prodavač ovoce a zeleniny se změnil na tajuplného obchodníka z rybími pochoutkami.
 
-![Cat Alley - draft](../assets/posts/2020-09-14-pixel-art-v/cat-alley.png "Cat Alley - draft")
+![Cat Alley - draft](../assets/post-img/2020-09-14-pixel-art-v/cat-alley.png "Cat Alley - draft")
 
 Finální verze animace má 60 framů a přes 20 vrstev. Není už úplně sranda se v tom vyznat.
 
-![Cat Alley - draft](../assets/posts/2020-09-21-pixel-art-vi/aseprite-animation.png "Cat finished")
+![Cat Alley - draft](../assets/post-img/2020-09-21-pixel-art-vi/aseprite-animation.png "Cat finished")
 
 Na modré budově za třetí lampou je potrhaný plakát s čínským znakem "Yú", který znamená "ryba". Níže v původní podobě.
 
-![Yú](../assets/posts/2020-09-21-pixel-art-vi/yu.png "Yú")
+![Yú](../assets/post-img/2020-09-21-pixel-art-vi/yu.png "Yú")
 
 ## GameDev - Memory Game
 
 Zkušební hra dostala funkční menu, mapu levelů a základní navigační prvky napříč obrazovkami, plus možnost normálního ukončení hry. Prodlevy po otočení karet jsou zkrácené na polovinu. Svižnost je znát. Samotná hra je pořád stejně špatná.
 
-Druhý build ke stažení: [pexeso-demo-v2_3.zip](../assets/posts\2020-09-21-pixel-art-vi\pexeso-demo-v2_3.zip "pexeso-demo-v2_3.zip") (21 MB). Rozbalit a spustit souborem ```pexeso-test.exe```.
+Druhý build ke stažení: [pexeso-demo-v2_3.zip](../assets/post-img/2020-09-21-pixel-art-vi/pexeso-demo-v2_3.zip "pexeso-demo-v2_3.zip") (21 MB). Rozbalit a spustit souborem ```pexeso-test.exe```.
 
-![Memory Game demo](../assets/posts/2020-09-14-pixel-art-v/pexeso-demo.jpg "Memory Game demo")
+![Memory Game demo](../assets/post-img/2020-09-14-pixel-art-v/pexeso-demo.jpg "Memory Game demo")
 
 ## Aseprite Tips & Tricks
 
@@ -65,7 +65,7 @@ Pokud vidíte níže uvedenou chybovou hlášku zkuste omrknout Build Settings. 
 
 ```Scene 'storyMap' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded. To add a scene to the build settings use the menu File->Build Settings...```
 
-![Load Scene](../assets/posts/2020-09-21-pixel-art-vi/add-scene-to-build.jpg "Load Scene")
+![Load Scene](../assets/post-img/2020-09-21-pixel-art-vi/add-scene-to-build.jpg "Load Scene")
 
 ## Závěr
 

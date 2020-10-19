@@ -115,3 +115,4 @@ Na podobné problémy a pasti je důležité upozorňovat. Ale buďme realisté.
 * Kolik mají ocenění. Jak často vítězí v nějakých soutěžích?
 * Případovky jsou populární i při prezentaci obchodních nabídkek. Obvykle jsou popsané na jednom či dvou slidech. Vyžádejte si delší a detailnější verze dané studie. Pokud to nejde, ptejte se proč. Ptejte se i proč není studie vystavená veřejně.
 * Vyžádejte si konkrétní reference. A nebojte se je obepsat (obvolat). Do marketingu dáte spoustu peněz a bude vás to stát hromadu energie i když jen outsourcujete. Vložte půl hodiny časy, abyste si ověřili, že si volíte opravdu dobrého parťáka pro byznys.  
+* test

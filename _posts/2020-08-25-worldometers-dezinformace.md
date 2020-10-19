@@ -3,8 +3,8 @@ layout: post
 title: "Worldometers jako nástroj pro šíření dezinformací"
 permalink: /worldometers-data-dezinformace/
 date: 2020-08-25
-thumbnail-img: /assets/posts/2020-08-25-worldometers-dezinformace/illuminati.gif
-share-img: https://blog.chaoticum.cz/assets/posts/2020-08-25-worldometers-dezinformace/illuminati-soc.jpg
+thumbnail-img: /assets/post-img/2020-08-25-worldometers-dezinformace/illuminati.gif
+share-img: https://blog.chaoticum.cz/assets/post-img/2020-08-25-worldometers-dezinformace/illuminati-soc.jpg
 author: Zdeněk Nešpor
 tags: [dezinformace]
 ---

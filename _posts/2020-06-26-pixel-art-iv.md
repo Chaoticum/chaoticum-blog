@@ -13,41 +13,41 @@ Zatím mi moc nešlo kreslení postav, tak jsem se zaměřil primárně na to a 
 
 **Luke Skywalker**. Košile a kalhoty jsou světle modré, aby oblečení vyniklo na bílém pozadí. Plátno 32x32 px.
 
-![Luke Skywalker](../assets/posts/2020-06-26-pixel-art-iv/luke-skywalker.png "Luke Skywalker")
+![Luke Skywalker](../assets/post-img/2020-06-26-pixel-art-iv/luke-skywalker.png "Luke Skywalker")
 
 **Darth Maul**. Plátno 32x32 px.
 
-![Darth Maul](../assets/posts/2020-06-26-pixel-art-iv/darth-maul.png "Darth Maul")
+![Darth Maul](../assets/post-img/2020-06-26-pixel-art-iv/darth-maul.png "Darth Maul")
 
 **Java**. Plátno 32x32 px.
 
-![Java](../assets/posts/2020-06-26-pixel-art-iv/java.png "Java")
+![Java](../assets/post-img/2020-06-26-pixel-art-iv/java.png "Java")
 
 **Chewbacca**. Plátno 32x32 px.
 
-![Chewbacca](../assets/posts/2020-06-26-pixel-art-iv/chewbacca.png "Chewbacca")
+![Chewbacca](../assets/post-img/2020-06-26-pixel-art-iv/chewbacca.png "Chewbacca")
 
 **Yoda & baby Yoda**. Plátno 32x32 px.
 
-![Yoda & baby Yoda](../assets/posts/2020-06-26-pixel-art-iv/joda.png "Yoda & baby Yoda")
+![Yoda & baby Yoda](../assets/post-img/2020-06-26-pixel-art-iv/joda.png "Yoda & baby Yoda")
 
 ## Animace
 
 **Luke Skywalker**. Animace chůze mi moc nešla a byl jsem líný si s tím více pohrát, tak jsem zkusil něco jednoduššího. Třeba salto. Plátno 256x128 px. 30 framů.
 
-![Luke Skywalker animation](../assets/posts/2020-06-26-pixel-art-iv/nebechodic.gif "Luke Skywalker animation")
+![Luke Skywalker animation](../assets/post-img/2020-06-26-pixel-art-iv/nebechodic.gif "Luke Skywalker animation")
 
 **Luke Seawalker**. A když už jsem byl v tom, tak jsem trochu potrápil Luka a hodil ho do vody. Plátno 256x128 px. 30 framů.
 
-![Luke Seawalker animation](../assets/posts/2020-06-26-pixel-art-iv/moretopic.gif "Luke Seawalker animation")
+![Luke Seawalker animation](../assets/post-img/2020-06-26-pixel-art-iv/moretopic.gif "Luke Seawalker animation")
 
 **Luke Lavawalker**. Možná jsem Luka potrápil trošku víc, než jsem původně plánoval. Prostě jsem hrozně chtěl zkusit udělat lávu (nad fakt hezkou animací, bych ale musel strávit asi tak 3 hodiny). Plátno 256x128 px. 30 framů.
 
-![Luke Lavawalker animation](../assets/posts/2020-06-26-pixel-art-iv/lavohoric.gif "Luke Lavawalker animation")
+![Luke Lavawalker animation](../assets/post-img/2020-06-26-pixel-art-iv/lavohoric.gif "Luke Lavawalker animation")
 
 **Luke Groundwalker**. Chudákovi se prostě nedaří zabít ani nudu. Chtělo by to nejdřív více praxe s tréningovým mečem. Plátno 256x128 px. 35 framů.
 
-![Luke Groundwalker animation](../assets/posts/2020-06-26-pixel-art-iv/zemenudic.gif "Luke Groundwalker animation")
+![Luke Groundwalker animation](../assets/post-img/2020-06-26-pixel-art-iv/zemenudic.gif "Luke Groundwalker animation")
 
 
 ## Závěr
