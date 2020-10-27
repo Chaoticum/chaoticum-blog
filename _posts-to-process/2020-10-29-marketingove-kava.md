@@ -51,6 +51,8 @@ Následující řádky budou možná překvapením. Drtivou většinu lidí, nat
 
 Hláška o počtu vypitých káv je často k nalezení na webech marketingových a vývojářských agentur. Jediné, o čem vypovídá, je naprosto zoufalý nedostatek kreativity. A troufám si říct, že marketing se bez alespoň špetky kreativity dělá docela špatně.
 
+![Coffee Devil](../assets/post-img/2020-10-29-marketingova-kava/coffee-devil.gif "Coffee Devil")
+
 Relevantní případy, kdy by dávalo smysl se pochlubit počtem uvařených káv, jsou například vlastnictví kavárny nebo prodej kávovarů.
 
 Ani ty další čísla nemají zrovna hluboký význam. Počet klientů, odpracovaných hodin ani hotových projektů vůbec nic neznamená. Všechno jsou jen náhodná čísla, která mají za úkol vyvolat iluzi důvěryhodnosti a nalákat klienty.
