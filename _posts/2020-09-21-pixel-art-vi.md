@@ -11,7 +11,7 @@ Dokončení obrázku a animace z minulého blog postu. Menší pokrok s hrou. A 
 
 ## Cat Alley - animace
 
-**Kočičí ulička**. První větší počin, který se mi podařilo dotáhnout až do finální fáze. Plátno 160x64 px, do článku 3x zvětšeno na 480x192 px. 60 framů. 8 animovaných objektů. Cca 10 hodin práce.
+**Kočičí ulička**. První větší počin, který se mi podařilo dotáhnout až do finální fáze. Plátno 160x64 px, do článku 3x zvětšeno na 480x192 px. 60 framů. 8 animovaných objektů. Cca 10 hodin práce.[^1]
 
 ![Cat Alley](../assets/post-img/2020-09-21-pixel-art-vi/cat-alley.webp "Cat Alley")
 
@@ -70,3 +70,5 @@ Pokud vidíte níže uvedenou chybovou hlášku zkuste omrknout Build Settings. 
 ## Závěr
 
 Od pixel artu si dám nejspíš menší pauzu a zkusím dotáhnout hru do trochu použitelnější podoby.
+
+[^1]: test poznámky
