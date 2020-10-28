@@ -69,6 +69,8 @@ Zákazník, který si jednou za rok zaplatí hodinu vstupní konzultace, přisl�
 
 zákazník, který vás tlačí do něčeho co dělat nechcete. neetické.
 
+výpadek počítače na jaře 
+
 Dost zásadním způsobem jsem upravil způsob, jak pracuji s poptávkami.
 
 * Neúčastním se velkých tendrů. Příprava nabídek je časově nákladná. Tendr obvykle vyhraje cíleně podstřelená nabídka. Tendry vypisují velké korporace, se kterými bude jednotlivec dost špatně bojovat. Ztráta času pro freelancera.
@@ -120,6 +122,9 @@ Ruční skartovačka
 Chvíli jsem koketoval s koupí Macbooku. Ale nedává to žádný smysl. Konkurenční produkty mají výrazně lepší technické parametry a 2x nižší cenu.
 
 ---
+
+jak se vdělávám
+
 
 
 https://www.youtube.com/channel/UCpATJC1rBtKppd68xwKjeog

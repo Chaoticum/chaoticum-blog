@@ -21,33 +21,33 @@ Nakonec jsem zakotvil u experimentování se dvěma minimalistickými paletami b
 
 **Game Boy paleta**. Čtyři odstíny zelené. Hry v těchto barvách jsme mohli hrát od roku 1989. Paleta umožňuje dobrou práci se stínováním a zvýrazňováním.
 
-![Game Boy paleta](../assets/posts/2020-05-25-pixel-art-iii/gameboy-palette.png "Game Boy paleta")
+![Game Boy paleta](../assets/post-img/2020-05-25-pixel-art-iii/gameboy-palette.png "Game Boy paleta")
 
 **Catapult**. 2x LRM20. Plátno 32x32 px.
 
-![Catapult](../assets/posts/2020-05-25-pixel-art-iii/catapult.png "Catapult")
+![Catapult](../assets/post-img/2020-05-25-pixel-art-iii/catapult.png "Catapult")
 
 **Awesome**. 3x PPC. Plátno 32x32 px.
 
-![Awesome](../assets/posts/2020-05-25-pixel-art-iii/awesome.png "Awesome")
+![Awesome](../assets/post-img/2020-05-25-pixel-art-iii/awesome.png "Awesome")
 
 **Uziel**. 1x SRM6, 2x Heavy Machine Gun. Plátno 32x32 px.
 
-![Uziel](../assets/posts/2020-05-25-pixel-art-iii/uziel.png "Uziel")
+![Uziel](../assets/post-img/2020-05-25-pixel-art-iii/uziel.png "Uziel")
 
 **Catapult VS tank**. Animovaný gif. Catapult vystřelí rakety a zničí tank. Plátno 256x128 px.
 
-![Animated Catapult](../assets/posts/2020-05-25-pixel-art-iii/catapult-animated_v2.gif "Animated Catapult")
+![Animated Catapult](../assets/post-img/2020-05-25-pixel-art-iii/catapult-animated_v2.gif "Animated Catapult")
 
 ## Náhodné pokusy
 
 **ARK4 paleta**. Bílá, černá, dva odstíny fialové. Poměrně náročné na použití. Bílá a černá jsou příliš kontrastní a práci spíše komplikují.
 
-![ARK4](../assets/posts/2020-05-25-pixel-art-iii/arq4-palette.png "ARK4")
+![ARK4](../assets/post-img/2020-05-25-pixel-art-iii/arq4-palette.png "ARK4")
 
 **Nábytek a interiér**. Dvě různé skříně, postel, (nepovedený) počítač, otevřená lednice, kuchyň (s mikrovlnkou, vodovodní baterií a kávovarem), záchod a nakonec rituální pokoj s lebkou a svíčkami. 32x256 px.
 
-![Nábytek](../assets/posts/2020-05-25-pixel-art-iii/furniture.png "Nábytek")
+![Nábytek](../assets/post-img/2020-05-25-pixel-art-iii/furniture.png "Nábytek")
 
 
 ## Závěr
