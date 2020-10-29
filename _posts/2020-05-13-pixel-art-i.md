@@ -9,7 +9,7 @@ tags: [pixel art]
 
 V květnu 2020 jsem se začal věnovat pixel artu. Tento blog budu využívat jako nástroj pro sebemotivaci a dokumentaci pokroku.
 
-Původně jsem začal zkoušet 3D grafiku v Blenderu. Po několika pokusech jsem vyhodnotil, že bude lepší se pustit do něčeho méně ambiciózního s možností rychlejšího postupu a nutností méně komplikovaného softwaru. A nic "jednodušího" než pixel art není.
+Původně jsem začal zkoušet 3D grafiku v Blenderu. Po několika pokusech jsem vyhodnotil, že bude lepší se pustit do něčeho méně ambiciózního s možností rychlejšího postupu a nutností méně komplikovaného softwaru. A nic "jednoduššího" než pixel art není.
 
 Základy a prvotní inspiraci jsem načerpal z několika YouTube kanálů. Převážně kanály [Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg) a [Pixel Pete](https://www.youtube.com/user/MilkoDaily). Pro tvorbu grafiky nyní používám trial verzi nástroje [Marmoset Hexels](https://marmoset.co/hexels/) (viz video níže).
 
