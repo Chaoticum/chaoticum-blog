@@ -13,13 +13,13 @@ Kávová kultura pronikla tak hluboko do oblasti marketingu, že se z ní stal u
 
 ## Marketingová káva
 
-Nedávno mi dorazil newsletter od ředitele renomované společnosti, který obsahoval následkující větu: _„Od té doby jsme spustili 529 240 nových nabídek, zákazníci ohodnotili 6 053 050 voucherů a naše firemní kávovary uvařily 717 714 káv.“_
+Nedávno mi dorazil newsletter od ředitele renomované společnosti, který obsahoval následující větu: _„Od té doby jsme spustili 529 240 nových nabídek, zákazníci ohodnotili 6 053 050 voucherů a naše firemní kávovary uvařily 717 714 káv.“_
 
 Respekt. Hromada nabídek, hromada voucherů. A počet uvařených káv? No dobře, respekt i kávovarům. Ale je to opravdu relevantní, hodnotná nebo vtipná informace?
 
 ![Respect](../assets/post-img/2020-10-29-marketingova-kava/respect.jpg "Respect")
 
-Díky tomu newsletteru jsem si vzpomněl, že hlášku o počtu vypitých či uvařených káv jsem viděl už nesčetněkrát. Svého času ji totiž používal kde kdo. Možná někdy mezi roky 2010-2015 to ještě bylo relativně vtipné a originální. Kávová kultura tehdy byla žhavým trendem a všichni se přeháněli, kdo jí vypije víc.
+Díky tomu newsletteru jsem si vzpomněl, že hlášku o počtu vypitých či uvařených káv jsem viděl už nesčetněkrát. Svého času ji totiž používal kdekdo. Možná někdy v letech 2010–2015 to ještě bylo relativně vtipné a originální. Kávová kultura tehdy byla žhavým trendem a všichni se předháněli, kdo jí vypije víc.
 
 ## Síň kávy
 
@@ -41,7 +41,7 @@ Počet šálků vypité kávy se stal v minulých letech velice důležitou byzn
 
 ![Ukázka 8](../assets/post-img/2020-10-29-marketingova-kava/kava-08-crop.jpg "Ukázka 8")
 
-Udělali jste přes 200 projektů a máte přes 500 spokojených klientů? Vůbec není divné, že v referencích máte jen čtyři noname weby (z toho jeden je váš vlastní). Důležitější je jiná otázka. Jak je možné, že jste za 2 roky existence nevypili alespoň 2359 šálků kávy? Začátečníci…
+Udělali jste přes 200 projektů a máte přes 500 spokojených klientů? Vůbec není divné, že v referencích máte jen čtyři noname weby (z toho jeden je váš vlastní). Důležitější je jiná otázka. Jak je možné, že jste za 2 roky existence nevypili minimálně 2359 šálků kávy? Začátečníci…
 
 ![Rookie Numbers](../assets/post-img/2020-10-29-marketingova-kava/rookie-numbers.jpg "Rookie Numbers")
 
@@ -55,21 +55,21 @@ Hláška o počtu vypitých káv je často k nalezení na webech marketingových
 
 Relevantní případy, kdy by dávalo smysl se pochlubit počtem uvařených káv, jsou například vlastnictví kavárny nebo prodej kávovarů.
 
-Ani ty další čísla nemají zrovna hluboký význam. Počet klientů, odpracovaných hodin ani hotových projektů vůbec nic neznamená. Všechno jsou jen náhodná čísla, která mají za úkol vyvolat iluzi důvěryhodnosti a nalákat klienty.
+Ani ta další čísla nemají zrovna hluboký význam. Počet klientů, odpracovaných hodin ani hotových projektů vůbec nic neznamená. Všechno jsou to jen náhodná čísla, která mají za úkol vyvolat iluzi důvěryhodnosti a nalákat klienty.
 
 ## Tak trochu jiný šálek kávy
 
 Když už káva, tak se pojďme bavit také o méně příjemných souvisejících tématech – ekologie, udržitelnost a vykořisťování.
 
-Kávovar jede na plné obrátky, kafe teče proudem a v koši se hromadí jednorázové hliníkové kapsle. Hliník lze recyklovat donekonečna s relativně nízkými náklady. Kapsle se vyrábí převážně z již recyklovaného hliníku. Někteří výrobci mají na recyklovatelný odpad sběrná místa.[^1] Ale kolik firem recyklaci kapslí skutečně poctivě řeší?
+Kávovar jede na plné obrátky, kafe teče proudem a v koši se hromadí jednorázové hliníkové kapsle. Hliník lze recyklovat donekonečna s relativně nízkými náklady. Kapsle se vyrábí převážně z již recyklovaného hliníku. Někteří výrobci mají na recyklovatelný odpad sběrná místa [^1]. Ale kolik firem recyklaci kapslí skutečně poctivě řeší?
 
-Vypité šálky chlubivé marketingové kávy jsou dost možná výsledným produktem dětské práce a vykořisťování zemí třetího světa. Kolik lidí klade důraz na nákup fair trade produktů? Nebo je to jedno, hlavně když dostanu denní dávku kofeinu?
+Vypité šálky chlubivé marketingové kávy jsou dost možná výsledným produktem dětské práce a vykořisťování zemí třetího světa. Kolik lidí klade důraz na nákup fair trade produktů? Nebo je to jedno, hlavně když dostanu svoji denní dávku kofeinu?
 
-Namísto prázdného sdělení a hloupé metriky se dá věnovat prostor alespoň drobnému náznaku společenské odpovědnosti. Klidně v souvislosti s milovanou kávou. Bylo by to mnohem přínosnější. Sdělení, že je firma ekofriedly nebo podporuje fair trade, mi osobně přijde jako poutavější. A nemusím být nezbytně nutně ekoterorista, abych to ocenil.
+Namísto prázdného sdělení a hloupé metriky se dá věnovat prostor alespoň drobnému náznaku společenské odpovědnosti. Klidně v souvislosti s milovanou kávou. Bylo by to mnohem přínosnější. Sdělení, že je firma ecofriedly nebo podporuje fair trade, mi osobně přijde jako poutavější. A nemusím být nezbytně nutně ekoterorista, abych to ocenil.
 
 ## Poslední kafe před koncem
 
-Nevypilo se marketingové kávy už dostatek? Buďte originální. Není to až tak náročné. Jako náhražka poslouží alespoň drobný náznak společenské odpovědnosti. Nebo cokoliv relavatního k byznysu, který reálně provozujete. Prodáváte weby nebo kafe? A už jste někdy přemýšleli, jestli by vám to kafe čirou náhodou nešlo lépe?
+Nevypilo se marketingové kávy už dostatek? Buďte originální. Není to až tak náročné. Jako náhražka poslouží alespoň drobný náznak společenské odpovědnosti. Nebo cokoliv relevantního k byznysu, který reálně provozujete. Prodáváte weby nebo kafe? A už jste někdy přemýšleli, jestli by vám to kafe čirou náhodou nešlo lépe?
 
 Pokud jste na straně klientské, zvažte, zda je káva ta správná metrika, podle které dává smysl vybírat dodavatele webu a marketingových aktivit.
 
