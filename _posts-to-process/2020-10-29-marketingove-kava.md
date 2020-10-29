@@ -65,11 +65,11 @@ Kávovar jede na plné obrátky, kafe teče proudem a v koši se hromadí jednor
 
 Vypité šálky chlubivé marketingové kávy jsou dost možná výsledným produktem dětské práce a vykořisťování zemí třetího světa. Kolik lidí klade důraz na nákup fair trade produktů? Nebo je to jedno, hlavně když dostanu svoji denní dávku kofeinu?
 
-Namísto prázdného sdělení a hloupé metriky se dá věnovat prostor alespoň drobnému náznaku společenské odpovědnosti. Klidně v souvislosti s milovanou kávou. Bylo by to mnohem přínosnější. Sdělení, že je firma ecofriedly nebo podporuje fair trade, mi osobně přijde jako poutavější. A nemusím být nezbytně nutně ekoterorista, abych to ocenil.
+Namísto prázdného sdělení a hloupé metriky se dá věnovat prostor alespoň drobnému náznaku společenské odpovědnosti. Klidně v souvislosti s milovanou kávou. Bylo by to mnohem přínosnější. Sdělení, že je firma ecofriedly nebo podporuje fair trade, mi osobně přijde poutavější. A nemusím být nezbytně nutně ekoterorista, abych to ocenil.
 
 ## Poslední kafe před koncem
 
-Nevypilo se marketingové kávy už dostatek? Buďte originální. Není to až tak náročné. Jako náhražka poslouží alespoň drobný náznak společenské odpovědnosti. Nebo cokoliv relevantního k byznysu, který reálně provozujete. Prodáváte weby nebo kafe? A už jste někdy přemýšleli, jestli by vám to kafe čirou náhodou nešlo lépe?
+Nevypilo se marketingové kávy už dostatek? Buďte originální. Není to až tak náročné. Jako náhražka poslouží například již zmiňovaný drobný náznak společenské odpovědnosti, ať už v podobě ekologického či sociálního dopadu. Nebo cokoliv relevantního k byznysu, který reálně provozujete. Prodáváte weby nebo kafe? A už jste někdy přemýšleli, jestli by vám to kafe čirou náhodou nešlo lépe?
 
 Pokud jste na straně klientské, zvažte, zda je káva ta správná metrika, podle které dává smysl vybírat dodavatele webu a marketingových aktivit.
 
