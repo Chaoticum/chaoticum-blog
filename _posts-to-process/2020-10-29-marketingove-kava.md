@@ -69,7 +69,7 @@ Namísto prázdného sdělení a hloupé metriky se dá věnovat prostor alespo�
 
 ## Poslední kafe před koncem
 
-Nevypilo se marketingové kávy už dostatek? Buďte originální. Není to až tak náročné. Jako náhražka poslouží například již zmiňovaný drobný náznak společenské odpovědnosti, ať už v podobě ekologického či sociálního dopadu. Nebo cokoliv relevantního k byznysu, který reálně provozujete. Prodáváte weby nebo kafe? A už jste někdy přemýšleli, jestli by vám to kafe čirou náhodou nešlo lépe?
+Nevypilo se marketingové kávy už dostatek? Buďte originální. Není to až tak náročné. Jako náhražka poslouží například již zmiňovaný náznak společenské odpovědnosti, ať už v podobě ekologického či sociálního dopadu. Nebo cokoliv relevantního k byznysu, který reálně provozujete. Prodáváte weby nebo kafe? A už jste někdy přemýšleli, jestli by vám to kafe čirou náhodou nešlo lépe?
 
 Pokud jste na straně klientské, zvažte, zda je káva ta správná metrika, podle které dává smysl vybírat dodavatele webu a marketingových aktivit.
 
