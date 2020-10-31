@@ -31,7 +31,7 @@ Všechny obrázky v článku jsou zvětšené a uváděné rozměry odpovídají
 
 ![Dům](../assets/post-img/2020-05-13-pixel-art-i/house.png "Dům")
 
-**Nintendo Switch**. Inspirováno tutorialovým videem. 32x14px.
+**Nintendo Switch**. Inspirováno tutorialovým videem. 32x14 px.
 
 ![Nintendo Switch](../assets/post-img/2020-05-13-pixel-art-i/switch.png "Nintendo Switch")
 
@@ -59,7 +59,7 @@ Všechny obrázky v článku jsou zvětšené a uváděné rozměry odpovídají
 
 ![Zenové relaxační pískoviště](../assets/post-img/2020-05-13-pixel-art-i/zen-sand-box.png "Zenové relaxační pískoviště")
 
-**Koi bazének**. První pokus o animaci. Na obrázku se nachází most a bazének se třemi Koi. Ryb původně bylo 5 a byly zvýrazněny vlny tvořené jejich pohybem. Animace je časově hodně náročná, proto zatím jen tři nepříliš kvalitně animované ryby a bez vln. Budu pravděpodobně ladit v dalších iteracích. Plátno 32x32 px, 30 framů.
+**Koi bazének**. První pokus o animaci. Na obrázku se nachází most a bazének se třemi Koi kapry. Ryb původně bylo pět a byly zvýrazněny vlny tvořené jejich pohybem. Animace je časově hodně náročná, proto zatím jen tři nepříliš kvalitně animované ryby a bez vln. Budu pravděpodobně ladit v dalších iteracích. Plátno 32x32 px, 30 framů.
 
 ![Koi bazének](../assets/post-img/2020-05-13-pixel-art-i/koi-pond.gif "Koi bazének")
 
@@ -69,4 +69,4 @@ Všechny obrázky v článku jsou zvětšené a uváděné rozměry odpovídají
 
 ## Závěr
 
-Mám za sebou přibližně 10 dnů experimentů a spoustu nových nápadů ke zpracování. Vytvoření jednoho obrázku trvá kolem 20 minut. Ladění drobných detailů, stínování, výběr vhodnější barvy pak zabere dalších 30-60 minut.
+Mám za sebou přibližně 10 dnů experimentů a spoustu nových nápadů ke zpracování. Vytvoření jednoho obrázku trvá kolem 20 minut. Ladění drobných detailů, stínování, výběr vhodnější barvy pak zabere dalších 30–60 minut.
