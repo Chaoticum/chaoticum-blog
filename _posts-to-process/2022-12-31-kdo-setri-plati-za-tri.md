@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kdo šetří kupuje za tři"
+title: "kdo šetří platí za tři"
 permalink: /kdo-setri-plati-za-tri/
 date: 2022-12-31
 author: Zdeněk Nešpor

@@ -55,7 +55,7 @@ Hláška o počtu vypitých káv je často k nalezení na webech marketingových
 
 Relevantní případy, kdy by dávalo smysl se pochlubit počtem uvařených káv, jsou například vlastnictví kavárny nebo prodej kávovarů.
 
-Ani ty další čísla nemají zrovna hluboký význam. Počet klientů, odpracovaných hodin ani hotových projektů vůbec nic neznamená. Všechno jsou jen náhodná čísla, která mají za úkol vyvolat iluzi důvěryhodnosti a nalákat klienty.
+Ani ty další čísla nemají zrovna hluboký význam. Počet klientů, odpracovaných hodin nebo hotových projektů vůbec nic neznamená. Všechno jsou jen náhodná čísla, která mají za úkol vyvolat iluzi důvěryhodnosti a nalákat klienty.
 
 ## Tak trochu jiný šálek kávy
 

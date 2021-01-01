@@ -7,6 +7,11 @@ author: Zdeněk Nešpor
 tags: [freelance]
 ---
 
+vizitky, začátek, škola, medio, vyhoření
+
+https://events.withgoogle.com/webmaster-conference-czsk/schedule/
+https://www.ladyvirtual.cz/a-s-gephi-prisla-vizualizace-prolinkovani-na-webu/
+
 
 1. 12. 2017
 
@@ -69,7 +74,7 @@ Zákazník, který si jednou za rok zaplatí hodinu vstupní konzultace, přisl�
 
 zákazník, který vás tlačí do něčeho co dělat nechcete. neetické.
 
-výpadek počítače na jaře 
+výpadek počítače na jaře
 
 Dost zásadním způsobem jsem upravil způsob, jak pracuji s poptávkami.
 
@@ -122,6 +127,8 @@ Ruční skartovačka
 Chvíli jsem koketoval s koupí Macbooku. Ale nedává to žádný smysl. Konkurenční produkty mají výrazně lepší technické parametry a 2x nižší cenu.
 
 ---
+
+dary a charita
 
 jak se vdělávám
 
