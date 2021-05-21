@@ -97,7 +97,7 @@ Soupiska nejdůležitějších věcí a nástrojů, které mi pomáhají v prác
 
 ### Hardware
 
-**Roční diář Leuchturm 1918**. Před pár roky jsem si oblíbil klasické papírové diáře. Leuchturm 1918 patří mezi absolutní špičku. I sebekvalitnější papírový diář sice postrádá flexibilitu Google kalendáře, například při změnách termínů schůzek, ale papír má prostě svoje neodolatelné kouzlo.
+**Roční diář LEUCHTTURM1917**. Před pár roky jsem si oblíbil klasické papírové diáře. Leuchturm 1918 patří mezi absolutní špičku. I sebekvalitnější papírový diář sice postrádá flexibilitu Google kalendáře, například při změnách termínů schůzek, ale papír má prostě svoje neodolatelné kouzlo.
 
 **Sluchátka Sony WH-1000XM3**. Jedny z nejlepších sluchátek na trhu s technologií aktivního potlačení okolního hluku. Nedocenitelné při častém cestování nebo v open space. Spolehlivě odbourá jakýcholiv ruch. Neumí dobře odbourávat lidský hlas, ale s puštěnou hudbou ani to nebývá problém.
 
