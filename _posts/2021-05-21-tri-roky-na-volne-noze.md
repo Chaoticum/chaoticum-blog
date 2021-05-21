@@ -2,7 +2,7 @@
 layout: post
 title: "Tři roky na volné noze"
 permalink: /tri-roky-na-volne-noze/
-date: 2021-05-19
+date: 2021-05-21
 thumbnail-img: /assets/post-img/2021-05-19-tri-roky-na-volne-noze/cake.png
 share-img: https://blog.chaoticum.cz/assets/post-img/2021-05-19-tri-roky-na-volne-noze/cake.png
 author: Zdeněk Nešpor
