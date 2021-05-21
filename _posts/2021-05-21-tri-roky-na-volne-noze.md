@@ -166,6 +166,7 @@ Pár jmen freelenacerů a podnikatelů, kteří mě inspirují (abecední pořad
 
 * [Adam Zbiejczuk](https://about.me/zbiejczuk)
 * [Lukáš Pítra](https://www.lukaspitra.cz/)
+* [Ondřej Staněk](https://www.stanekconsulting.cz/)
 * [Pavel Minář](https://www.minar.cz/)
 * [Pavel Ungr](https://www.pavelungr.cz/)
 * [Robert Vlach](http://www.vla.ch/)
