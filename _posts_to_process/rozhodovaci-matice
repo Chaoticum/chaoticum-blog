@@ -1,0 +1,65 @@
+
+
+
+
+
+
+Rozhodovat se a vybírat z mnoha možností se bývá těžké. Ukážu vám nástroj, který vám umožní rozhodovací procesy udělat výrazně jednodušší, efektivnější, rychlejší, a především oříznuté o subjektivní dojmy a emoce.
+
+## whatever
+
+Jako modelová situace poslouží například proces výběru nového redakčního systému pro nově vznikající firemní blog. Udělám rešerši a předvýběr CMS. Do úzkého výběru se dostanou tyto:
+
+* WordPress
+* Drupal
+* Jekyll
+* Ghost
+* Medium
+
+Teď je potřeba ujasnit si situaci. Firma má hluboko do kapsy, chce mít blog na vlastní doméně, potřebuje minimum customizace, nevyžaduje žádné speciální funkce, nebude psát články často a o web se postará technicky zdatný zaměstnanec.
+
+* Cena
+* Vlastní doména
+* SEO
+* Rychlost
+* Mobilní přívětivost
+* Administrace
+* Pluginy a šablony
+
+
+| x | CMS 1 | Previous number |
+| :------ |:--- | :--- |
+| Feature | CMS | Previous number |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+
+Nyní přidělíme každému faktoru nějakou váhu.
+
+* Cena - 30 % - operujeme s nulovým rozpočtem a finanční náklady jsou tedy důležité
+* Vlastní doména - 15 % - chceme budovat obsah na vlastní doménu
+* SEO - 15 % - systém musí být SEO-friendly (průchodnost, indexovatelnost, URL, redirecty)
+* Rychlost - 10 % - Výsledný web by měl být rychlý
+* Mobilní přívětivost - 10 % - výsledný web by měl být použitelný na mobilech
+* Administrace - 5 % - administraci klient nevyžaduje
+* Pluginy a šablony - 5 % - klient nechce žádné speciální funkce a nepotřebuje pluginy ani profesionální šablony, základy si zvládne udělat svépomocí.
+
+## Rozhodovací matice
+
+Nejvyšší čas podklady naházet do tabulky a vyhodnotit. 
+
+
+a stanovit rozhodovací faktory.
+
+## V čem matice pomůže
+
+Při výběru auta, bytu, CMSka, agentury.
+
+## V čem nepomůže
+
+Komplexní rozhodnutí.
+
+
+
+Jednoduchá tabulka vám možná změní život.

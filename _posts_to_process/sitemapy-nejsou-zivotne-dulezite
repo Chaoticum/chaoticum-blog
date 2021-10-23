@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+
+
+
+Sitemapy patří mezi webové komponenty, které podléhají obrovské řadě pravidel. Na první pohled působí jako triviální XML soubory. V žádném případě je nemůžete podcenit. Vlastně to nejlepší co můžete udělat pro lepší fungování svého webu je, sitemapy vůbec nemít.
+
+
+## Sitemapa není mapa
+
+Název napovídá, že se jedná o mapu webu. Ale není. Je to index (rejstřík) URL (adres) webových stránek. Představte si klasický autoatlas ČR. Obsahuje mapy měst a tras mezi nimi. Na konci atlasu je rejstřík lokalit. Teď si ještě zkuste představit, že ten rejstřík nebosahuje názvy lokalit, ale jen soupis GPS souřadnic.
+
+A přesně to je sitemapa. Soupis souřadnic, na kterých se nachází nějaké webové stránky.
+
+## K čemu to je
+
+
+## Potřebuji sitemapu?
+
+Základním faktorem je technický stav webu. Budu muset předpokládat, že vás web neobsahuje žádné opravdu vážné technické problémy a robot vyhledávače ho může procházet. Pokud používáte nějaké běžné CMS, tak je vysoká pravděpobnost, že vážný problém nemáte.
+
+Běžně se rozhoduji podle počtu ULR webu. Weby do 1.000 URL sitemapy nepotřebují.
+
+### Jednostránkové weby (jedna URL)
+
+Jednostránkový web z podstaty věci sitemapu nepotřebuje. Většinou tam je víc chyb, než URL.
+
+### Do 10 stránek
+
+Sitemapa je k ničemu. Stále existuje riziko, že v sitemapě budete mít víc chyb než URL.
+
+### Do 100 stránek
+
+Sitemapu nepotřebujete.
+
+### Do 1000 stránek
+
+Sitemapu nepotřebujete.
+
+### 10.000 - 99.999 stránek
+
+Někde v tomto rozpětí začíná být sitemapa užitečným nástrojem.
+
+### 100.000 - 999.999
+
+Sitemapu potřebujete a potřebuje je optzimnalizovat.
+
+Sitemapa je nutností
+
+### Nad 1.000.000
+
+### Nad 10.000.000
+
+### Nad 100.000.000
+
+Všechno špatně. Na webu dost pravděpodobně nemáte tolik užitečných URL.
+
+## Pár pravidel, které URL do sitemap NEPATŘÍ
+
+Do sitemap napatří URL, které:
+
+* Vrací jakýkoliv jiný status kód než 200 OK
+* URL stránek, které neobsahují direktivy "noindex" ani "nofollow"
+* URL stránek, které jsou kanonizovány na jinou URL pomocí canonicalu
+* URL stránek, které nejsou blokované v robots.txt
+*
+
+## Už mám sitemapu, co nepovinné atributy?
+
+Zapomeňte, že existují.
+
+Nezapomínejte, že weby se stále vyvíjí. Dnes možná máte malý e-shop se 3.000 produkty a bez parametrické filtrace. Rozrostete se a o rok později můžete mít 30.000 produktů. Přidáte parametrickou filtraci a najednou máte dalších 100.000 URL navíc. Tyto situace již vyžadují individuální přístup. Je potřeba přehodnotit přístup k internímu prolinkování, robots.txt a pravděpdodobně se už vyplatí přidat i sitemapy.
+
+
+## Jak poznám velikost webu?
+
+Špatně. Hlavně u e-shopů s parametrickou filtrací.
+
+https://nazuke.github.io/SEOMacroscope/
+
+Kolik by co mělo stát?
+
+Rád bych dal jasnou odpověď. Roli hraje příliš mnoho faktorů.
